@@ -1,5 +1,6 @@
-# Documentation for the LSG-4Scales
+# Documentation for the LSG-4Scales-calibration
 [Presentation of LSG-4Scales](https://github.com/FrancoMaxime/lsg-4scales/blob/main/README.md)
+[Presentation of LSG-4Scales-calibration](https://github.com/FrancoMaxime/lsg-4scales-calibration/blob/main/README.md)
 
 
 ## Constants
